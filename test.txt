@@ -1,1 +1,4 @@
-first commit
+Git Command
+1. Add file to local repository 
+ git add <file name>
+ git commit -m "<commnet>"
